@@ -1,0 +1,6 @@
+.vs/
+Debug/
+*.sln
+*.db
+*.vcxproj
+*.filters
