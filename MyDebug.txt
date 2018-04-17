@@ -1,0 +1,2 @@
+WNDPROC : objIter : 0
+WNDPROC : objIter : 1

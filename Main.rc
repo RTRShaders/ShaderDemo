@@ -1,0 +1,13 @@
+#pragma once
+#include "Main.h"
+
+ID_BITMAP_FACE_0 BITMAP luca_face.bmp
+ID_BITMAP_FACE_1 BITMAP santino_face.bmp
+ID_BITMAP_FACE_2 BITMAP michael_face.bmp
+ID_BITMAP_FACE_3 BITMAP vito_face.bmp
+
+ID_BITMAP_CHEST_0 BITMAP luca_chest.bmp
+ID_BITMAP_CHEST_1 BITMAP santino_chest.bmp
+ID_BITMAP_CHEST_2 BITMAP michael_chest.bmp
+ID_BITMAP_CHEST_3 BITMAP vito_chest.bmp
+

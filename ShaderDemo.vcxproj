@@ -18,6 +18,66 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="Credits.cpp" />
+    <ClCompile Include="DoorAndFrame.cpp" />
+    <ClCompile Include="DrawMultipleBullet.cpp" />
+    <ClCompile Include="DropLines.cpp" />
+    <ClCompile Include="GodFathercpp.cpp" />
+    <ClCompile Include="GodfatherLogoAPI.cpp" />
+    <ClCompile Include="LegoWalk.cpp" />
+    <ClCompile Include="LucaBracy.cpp" />
+    <ClCompile Include="MachineGun.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MichaelCorleone.cpp" />
+    <ClCompile Include="Neo.cpp" />
+    <ClCompile Include="Pistol.cpp" />
+    <ClCompile Include="Rifle.cpp" />
+    <ClCompile Include="Room.cpp" />
+    <ClCompile Include="SantinoCharacter.cpp" />
+    <ClCompile Include="ShadersBullets.cpp" />
+    <ClCompile Include="ShortGun.cpp" />
+    <ClCompile Include="Util.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bullet.h" />
+    <ClInclude Include="Clock.h" />
+    <ClInclude Include="Credits.h" />
+    <ClInclude Include="DoorHeader.h" />
+    <ClInclude Include="DrawMultipleBullet.h" />
+    <ClInclude Include="DropLines.h" />
+    <ClInclude Include="GodFather.h" />
+    <ClInclude Include="LegoWalk.h" />
+    <ClInclude Include="logo.h" />
+    <ClInclude Include="LucaBracy.h" />
+    <ClInclude Include="MachineGun.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="Main_auxiliary_variable.h" />
+    <ClInclude Include="Main_Room.h" />
+    <ClInclude Include="Matrix.h" />
+    <ClInclude Include="MichaelCorleone.h" />
+    <ClInclude Include="Neo.h" />
+    <ClInclude Include="Pistol.h" />
+    <ClInclude Include="Rifle.h" />
+    <ClInclude Include="Room.h" />
+    <ClInclude Include="SantinoCharacter.h" />
+    <ClInclude Include="ShadersBullets.h" />
+    <ClInclude Include="ShortGun.h" />
+    <ClInclude Include="Util.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Main.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="luca.bmp" />
+    <Image Include="michael.bmp" />
+    <Image Include="santino.bmp" />
+    <Image Include="Smiley.bmp" />
+    <Image Include="Stone.bmp" />
+    <Image Include="Vijay_Kundali.bmp" />
+    <Image Include="vito.bmp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{20988932-27DC-4887-A03E-BF714CFBD276}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -145,9 +205,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="main.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -15,8 +15,167 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Credits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DoorAndFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawMultipleBullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DropLines.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GodFathercpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GodfatherLogoAPI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LegoWalk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LucaBracy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MachineGun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MichaelCorleone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Neo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pistol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rifle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SantinoCharacter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadersBullets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortGun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bullet.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Clock.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Credits.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DoorHeader.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawMultipleBullet.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DropLines.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GodFather.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LegoWalk.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="logo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LucaBracy.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MachineGun.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_auxiliary_variable.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_Room.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MichaelCorleone.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Neo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pistol.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rifle.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SantinoCharacter.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadersBullets.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortGun.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Main.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Smiley.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Vijay_Kundali.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Stone.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="luca.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="michael.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="santino.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="vito.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
